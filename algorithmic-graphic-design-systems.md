@@ -6,86 +6,47 @@ On Algorithmic Design Systems
 
 This is the first of hopefully many posts describing something I see as a continuing trend in the graphic design world: The rise of the meta-designer, and the use of algorithmic design systems.
 
-Until recently, the term *Graphic Designer* was used to describe artists with their roots firmly planted in the fine arts. Aspiring design students graduated with MFA degrees, and a curriculum based on traditions from painting, sculpture and architecture: The concepts of form, color and composition were introduced through manual exercises, like the paper-based color experiments from Josef Alber's incredible *The Interaction of Color*. At best, this teaches the designer about intuition and not being dictated by their given tool. At worst, the designer is institutionalized to think of themselves as an ideator, as a direct opposite to a technical person. Paul Rand famously said: *It's important to use your hands. This is what distinguishes you from a cow or a computer operator*. This echoes much of what I was taught early in my career.
+Until recently, the term *Graphic Designer* was used to describe artists with their roots firmly planted in the fine arts. Aspiring design students graduated with MFA degrees, and their curriculum was based on traditions from painting, sculpture and architecture: The concepts of form, color and composition were introduced through manual exercises, like the paper-based color experiments from Josef Alber's incredible *The Interaction of Color*. At best, this teaches the designer not being dictated by their given tool. At worst, the designer is institutionalized to think of themselves as an ideator, as a direct opposite to a technical person. Paul Rand famously said: *It's important to use your hands. This is what distinguishes you from a cow or a computer operator*. This echoes much of what I was taught early on in my career.
+
+This has obviously changed with the advent of computers (and the field of web design in particular), but not to the degree that one would expect. Despite recent efforts in defining digital-first design vocabularies, like Google's Material Design, the legacy of the printed page is still all around us. Even the most adept companies are organized around principles inherited from desktop publishing, and when the lines are drawn, we still have either *Design* or *Engineering* departments. Products start as static layouts in the former and become dynamic implementations in the latter. Designers use tools modeled after manual processes that came way before the computer, while engineers work in text-based environments. When designers from the computer age fit somewhere in between these two places, they are to pick where they belong. Either or.
+
+I believe that this is about to change in a fundamental way. I think we are on the cusp of an evolution of what is means to be a designer, and a significant shift in the way design products are made. There are several factors that lead me to this conclusion:
+
+1. Design systems throughout history.
+
+2. sdfdfg
+
+- History of systems in design. (there's a bunch of this). !!!! Design is not a manual thing. To fully appreciate color, one must explore the color model.
+
+- A new generation with code as a tool. Grew up on the internet. I know plenty of designers that just don't fit in those boxes. They simply can't work under the old world regime. 
+
+- The demands of design products are changing. increasing demand for dynamic design products. As our world goes digital, products are no longer static. Deliverables are websites, software systems, and even software to generate static printable files. The merigng of code and design. It has states and motion. … products where it’s virtually impossible to be an old world designer. Where there is nothing to do if you can’t program. Data as content. The only way to design it is to code it. Systems are the way to do that. design as a system. The product as as system. A bigger and bigger gap between designers and meta-designers. Try mocking up a data visualization in Photoshop. You need the numbers, bla bla.
+
+- new tools. Third, a number of new programming environments now provide an excellent level of entry for many people who wouldn't ordinarily think of themselves as programmers.
+
+
+
+I call this meta-design... borrowed from Donald Knuth.
+A shift away from these old workflows towards a world, towards a world where there is no clear separation between the creative and the technical.
+
+
+Difficulties: 
+
+- This makes hiring easier.
+- Becoming a talented software engineer takes years of practice. The same can be said of designers.
+- It's not a terrific process to code your designs.
+
+
+The future is owned by....
+
+This has drastic implications to education and the structure of our organizations. Disruption in inevitable.
+
+I have a plan to start writing my book.
 
 
 
 
 
-
-
-
-
-
-
-
-This changed with the computer.....
-
-I think we're seeing a third evolution of the graphic designer....
-
-
-
-
-
-
-This changed over the last 10 or so years, with web design.
-
-However, a second wave of influence in design. Much broader and significant.
-
-
-
-
-
-
-
-Aspiring designers
-
-
- graduate with MFA degrees from campuses all over
-
-
-
-However, this is changing. 
-
-
-
-The first obvious step away from the manual workflows came with the advent of computers at academic institutions in the 1960's and 1970's, and has cumulated with Silicon Valley, the internet, and what we today call a web designer: Someone who needs to understand a system and logic. This is well documented, and has already happened. I'm talking about something much bigger than the design of websites.
-
-WHAT IS IT.
-
-REASONS TO THIS: FACTORS.
-
-design as a system. The product as as system.
-
-What
-
-Factors
-
-When you look at the design products....
-
-
-in most companies the design department is also known as the *creative* team.
-
-MFA degrees. 
-Paul rand quote about computer and cow.
-Josef albers manual paper....
-
-
-
-
-## WHAT IS IT!
-I'm not just talking about websites, although it's a part of it.
-WHAT ARE THE FACTORS.
-The definition of a designer is changing.
-The demands of design products are changing.
-
-- A new generation with code as a tool. Grew up on the internet.
-- increasing demand for dynamic design products. As our world goes digital, products are no longer static. Deliverables are websites, software systems, and even software to generate static printable files. The merigng of code and design. It has states and motion.
-
-- History of systems in design. (there's a bunch of this). !!!!
-- Data as content. The only way to design it is to code it. Systems are the way to do that.
-
-Third, a number of new programming environments now provide an excellent level of entry for many people who wouldn't ordinarily think of themselves as programmers.
 
 
 
@@ -104,6 +65,8 @@ Creative coding
 Local projects / Potion design
 Design schools
 Stewart Smith
+Adam Harvey
+Grethe Sørensen
 
 
 
